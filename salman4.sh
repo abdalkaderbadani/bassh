@@ -1,1 +1,1 @@
-bash nomachinewindows10
+nomachinewindows10
